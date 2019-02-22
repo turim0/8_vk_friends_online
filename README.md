@@ -1,9 +1,9 @@
 # Watcher of Friends Online
 
 The script created to display your vk-friends online. For correct work script requires APP_ID, you can get it by creating application at https://vk.com/editapp?act=create
-
+```bash
 python3 vk_friends_online.py
-
+```
 Script will request your login and password and show list of your online friends.
 
 # How to Install
